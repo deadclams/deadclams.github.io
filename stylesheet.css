@@ -1,0 +1,22 @@
+.links {
+    max-width: 400px;
+    margin-left: 5%;
+    display: inline-block;
+    font-family: 'Montserrat';
+}
+body {
+    max-width: 400px;
+    margin-left: 5%;
+    display: inline-block;
+    font-family: 'Montserrat';
+}
+h1 {
+    line-height: .5em;
+}
+.entry {
+    text-align: left;
+    line-height: 1.5;
+} 
+
+
+
